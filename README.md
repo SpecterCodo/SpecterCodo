@@ -1,16 +1,12 @@
-## Hi there 👋
+Hello Friend
+I am Specter👾
 
-<!--
-**SpecterCodo/SpecterCodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Yes i am Specter, i am 14 years old Cybersecurity and Programming learner from Finland. 
+-I am learning Hacking. Ethically of course.
+-I am currently working on CS50(harvard's intro to Computer Science) and Introduction to Linux(LFS101) course.
+-I am learning these Programming Languages right now: Python🐍, C💙, Javascript🧡 and Scripting languages: Bash & Powershell.
+-Kali Linux is really cool
+-I am also very Neurodivergent so i am different than normal more simply
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I will be putting Projects and Repositories in here like:
+CS50-Projects, CTF Stuff, Hacking tools/Cybersecurity tools.
